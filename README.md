@@ -11,7 +11,7 @@ git clone https://github.com/tin0503/swisstronik-task4.git
 ```
 
 ```
-cd swisstronik-perc20-mint-token
+cd swisstronik-task4
 ```
 
 ### 2. Install Dependency
