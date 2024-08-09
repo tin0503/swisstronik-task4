@@ -2,10 +2,6 @@
 
 link : [Click!](https://www.swisstronik.com/testnet2/dashboard)
 
-# Swisstronik Tesnet Techinal Task 4 (Mint a PERC20 Token)
-
-link : [Click!](https://www.swisstronik.com/testnet2/dashboard)
-
 ## Steps
 
 ### 1. Clone Repository
@@ -68,4 +64,4 @@ npm run transfer
 - Copy the address and paste the address into testnet dashboard - line 1 
 - Open the tx-hash.txt (location in utils folder)
 - Copy the address and paste the tx hash link into testnet dashboard - line 3
-- push this project to your github and paste your repository link in testnet dashboard
+- push this project to your github and paste your repository link in testnet dashboard - line 2
